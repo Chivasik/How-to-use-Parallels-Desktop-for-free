@@ -2,7 +2,7 @@
 ### Step by step guide how to use parallels desktop 18 for free **[unlimited time]**
 
 
-## At first let's download PD 18 Pro from official website. 
+## At first let's download PD 18 Pro from official website.
 > **https://www.parallels.com/directdownload/pd/?mode=trial**
 #### If the version changed and the guide isn't working anymore here is the reserve link to the .dmg image
 > **https://drive.google.com/file/d/1CX4MgUVmY0kbH3-lmbLAGnBhdkm30eJa/view?usp=sharing**
@@ -16,9 +16,12 @@
 
 #### At first create passwd.txt file and save there your mac's password
 #### Once done open shortcuts app and edit the shortcut
-#### cd Users/$YOUR_USERNAME/                              - ex: cd Users/admin
-#### cd $FOLDER_WHERE_DOC_WAS_PUT                          - ex: cd Downloads 
-#### sudo -S date -u 0101043020 < ~/$PATH_OF_THE_TXT_FILE  - ex: sudo -S date -u 0101043020 < ~/Downloads/passwd.txt
+#### cd Users/$YOUR_USERNAME/
+##### ex: cd Users/admin
+#### cd $FOLDER_WHERE_DOC_WAS_PUT
+##### ex: cd Downloads
+#### sudo -S date -u 0101043020 < ~/$PATH_OF_THE_TXT_FILE
+##### ex: sudo -S date -u 0101043020 < ~/Downloads/passwd.txt
 
 ## **The same for last part of shortcut**
 #### It must look like this.
