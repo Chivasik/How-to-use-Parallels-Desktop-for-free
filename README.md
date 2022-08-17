@@ -24,7 +24,7 @@
 > ex: sudo -S date -u 0101043020 < ~/Downloads/passwd.txt
 
 ## **The same for last part of shortcut**
-#### It must look like this.
+#### It must look something like this.
 > https://drive.google.com/file/d/164BTb17kdhbwVHq-XRAO6z7dffxHkk46/view?usp=sharing
 
 ## Once everything is done close shortcuts app and run the shortcut.
