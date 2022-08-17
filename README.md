@@ -1,13 +1,13 @@
 # How to use Parallels Desktop for free on macOS
-### Step by step guide how to use parallels desktop 18 for free **[unlimited time]**
+### Step by step guide how to use parallels desktop 18 for free via shortcut **[unlimited time]**
 
 
 ## At first download PD 18 Pro from official website.
 > **https://www.parallels.com/directdownload/pd/?mode=trial**
-#### If the version changed and the guide isn't working anymore here is the reserve link to the .dmg image
+#### If the version have changed and the guide isn't working anymore here is the reserve link to the .dmg image
 > **https://drive.google.com/file/d/1CX4MgUVmY0kbH3-lmbLAGnBhdkm30eJa/view?usp=sharing**
 
-## For next let's save shortcut on mac
+## For next save shortcut on mac
 > **https://www.icloud.com/shortcuts/c33c2a0395874bc0a1da450134fc9257**
 
 ## Some changes need to be held in shorcut
