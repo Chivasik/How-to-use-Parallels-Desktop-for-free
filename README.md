@@ -15,7 +15,7 @@
 ##### Don't worry date and time will automaticly be change to today's
 
 #### At first create passwd.txt file and save in there your mac's password
-#### Once done open shortcuts app and edit the shortcut
+#### Once done open Shortcuts app and edit the shortcut
 #### cd Users/$YOUR_USERNAME/
 > ex: cd Users/admin
 #### cd $FOLDER_WHERE_DOC_WAS_PUT
@@ -27,5 +27,5 @@
 #### It must look something like this.
 > https://drive.google.com/file/d/164BTb17kdhbwVHq-XRAO6z7dffxHkk46/view?usp=sharing
 
-## Once everything is done close shortcuts app and run the shortcut.
+## Once everything is done close Shortcuts app and run the shortcut.
 ### If something have gone wrong contact me.
