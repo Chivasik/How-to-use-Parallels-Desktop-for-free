@@ -14,7 +14,7 @@
 ### As soon as we need to use sudo[super user] the app will request the password to change date and time
 ##### Don't worry date and time will automaticly be change to today's
 
-#### At first create passwd.txt file and save there your mac's password
+#### At first create passwd.txt file and save in there your mac's password
 #### Once done open shortcuts app and edit the shortcut
 #### cd Users/$YOUR_USERNAME/
 ##### ex: cd Users/admin
