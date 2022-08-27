@@ -1,7 +1,7 @@
 # How to use Parallels Desktop for free on macOS
 ### Step by step guide how to use parallels desktop 18 for free via shortcut **[unlimited time]**
 ### Or just download shell script version 
-> **[https://github.com/namra004/How-to-use-Parallels-Desktop-for-free/blob/main/Parallels_Desktop_Runner.sh]**
+> **https://github.com/namra004/How-to-use-Parallels-Desktop-for-free/blob/main/Parallels_Desktop_Runner.sh**
 
 
 ## At first download PD 18 Pro from official website.
